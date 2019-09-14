@@ -36,11 +36,6 @@ figure {
 footer {
   background: #638CA6;
   color: #000;
-  footer a:link { color: #3314A6 ; }
-  footer a:visited { color: #0D0D0D ; }
-  footer a:focus { color: #431AD9 ; }
-  footer a:hover { color: #491BF2 ; }
-  footer a:active { color: #240E73 ; }
 }
 
 /* --- add your PSEUDO CLASSES below this line --- */
@@ -50,3 +45,8 @@ a:visited { color: #0D0D0D ; }
 a:focus { color: #431AD9 ; }
 a:hover { color: #491BF2 ; }
 a:active { color: #240E73 ; }
+footer a:link { color: #3314A6 ; }
+footer a:visited { color: #0D0D0D ; }
+footer a:focus { color: #431AD9 ; }
+footer a:hover { color: #491BF2 ; }
+footer a:active { color: #240E73 ; }
