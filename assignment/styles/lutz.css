@@ -3,7 +3,7 @@
     Where I have commented "keep," DO NOT touch that line!
     */
 
-body {
+special body {
     background: #F2E3D5; /* must change */
     color: #fff; /* may be #000 or #fff */
     font-family: Calibri, Arial, sans-serif; /* keep */
