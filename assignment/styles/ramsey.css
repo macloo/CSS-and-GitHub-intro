@@ -1,0 +1,81 @@
+/*  ADD your styles below --- WHERE INDICATED ---
+    Keep all the comments I have provided.
+    Where I have commented "keep," DO NOT touch that line!
+    */
+
+body {
+    background: #506cf0; /* must change */
+    color: #fff; /* may be #000 or #fff */
+    font-family: Calibri, Arial, sans-serif; /* keep */
+}
+
+article {
+    background-color: #666b6e;
+    width: 800px; /* keep */
+    padding: 20px; /* keep */
+    margin: auto; /* keep */
+    border: 1px solid; /* can delete or change */
+}
+
+/* --- ADD YOUR STYLES BELOW --- */
+
+header {
+    color: #ffcd24;
+}
+
+footer {
+    color: #ffcd24;
+}
+
+aside {
+    background-color: #506cf0;
+}
+
+figure {
+    color:#fe7860;
+}
+
+
+/* --- add your PSEUDO CLASSES below this line --- */
+
+a:link{
+    color: #0000ff;
+}
+
+a:visited{
+    color: #bf40bf;
+}
+
+a:focus {
+    color: #ff0000;
+}
+
+a:hover {
+  color: #00ffff;
+}
+
+a:active {
+  color: #ff0;
+}
+
+/* --- footer Pseudo Classes --- */
+
+footer a:link{
+    color: #ff6600;
+}
+
+footer a:visited{
+    color: #b2f8b2;
+}
+
+footer a:focus {
+    color: #00ff00;
+}
+
+footer a:hover {
+  color: #00ffff;
+}
+
+footer a:active {
+  color: #ff6fff;
+}
