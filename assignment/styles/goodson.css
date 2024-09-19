@@ -5,11 +5,12 @@
 
 body {
     background: #817AA4; /* must change */
-    color: #fff; /* may be #000 or #fff */
+    color: #000; /* may be #000 or #fff */
     font-family: Calibri, Arial, sans-serif; /* keep */
 }
 aside {
     background: #817AA4;
+    
 }
 
 article {
