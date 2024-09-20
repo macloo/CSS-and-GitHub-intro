@@ -37,20 +37,20 @@ figure {
 }
 
 a:link {
-    color: #59EB00
+    color: #59EB00;
 }
 
 a:visited {
-    color: #00EB57
+    color: #00EB57;
 }
 
 a:focus{
-    color:#00EB08
+    color:#00EB08;
 }
 a:hover {
-    color: #00EBA7
+    color: #00EBA7;
 }
 a:active {
-    color: #00E8EB
+    color: #00E8EB;
 }
 
