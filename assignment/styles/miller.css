@@ -4,7 +4,7 @@
     */
 
 body {
-    background: #66858d;
+    background: #778472;
     /* must change */
     color: #000;
     /* may be #000 or #fff */
@@ -13,7 +13,7 @@ body {
 }
 
 article {
-    background: #8ba2a8;
+    background: #BAC7BE;
     width: 800px;
     /* keep */
     padding: 20px;
@@ -27,19 +27,19 @@ article {
 /* --- ADD YOUR STYLES BELOW --- */
 
 aside {
-    background: #66858d;
+    background: #778472;
 }
 
 figure {
-    background: #b9dbef;
+    background: #80AB82;
 }
 
 header {
-    background: #5d97b9;
+    background: #C2E1C2;
 }
 
 footer {
-    background: #5d97b9;
+    background: #C2E1C2;
 }
 
 /* --- add your PSEUDO CLASSES below this line --- */
